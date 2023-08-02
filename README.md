@@ -20,9 +20,14 @@
   - Mathematics and Applied Mathematics
 <!-- - 📫 How to reach me: Weibo[@xxx](https://weibo.com/u/123123123) / Twitter[@xxxx](https://twitter.com/123123) -->
 
-### Recent Works
+#### Recent Works
 - [🛰 question answering system with llm & vector database ](https://github.com/feiandxs): 为公司搭建的基于 LLM 模型和向量数据库实现的知识问答系统，其实也不只是问答，基本上你能想到的对文本做处理的部分都有了。
-- 
+
+#### Skills
+- Front-End ( React / SolidJS ) (I do use Vue and shout out to yyx, but I like React )
+- FastAPI ( Best Python Web Framework)
+- Go ( Mostly API servers)
+
 <!--
 #### Metrics
 
