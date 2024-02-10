@@ -12,8 +12,8 @@
 ### Hi there👏🏻
 
 #### About me
-- 💼 Work: LLM Player / Prompt Player / Server-side developer using Golang & Python / Former Front-End Engineer.
-  - react ui component / data visualization / llm training / solidjs component / etc...
+- 💼 Work: NextJs / TailwindCss / React / Shadcn\/UI
+  - react ui component / data visualization / llm training / solidjs component / rag / etc...
 - 📖 Learning:
   - Natural Language Processing
     - Large Language Model / Named Entity Recognition / Text Classification / Question Answering / etc...
@@ -21,10 +21,10 @@
 <!-- - 📫 How to reach me: Weibo[@xxx](https://weibo.com/u/123123123) / Twitter[@xxxx](https://twitter.com/123123) -->
 
 #### Recent Works
-- [🛰 question answering system with llm & vector database ](https://github.com/feiandxs): 为公司搭建的基于 LLM 模型和向量数据库实现的知识问答系统，其实也不只是问答，基本上你能想到的对文本做处理的部分都有了。
+- [🛰 question answering system with llm & vector database ](https://github.com/feiandxs)
 
 #### Skills
-- Front-End ( React / SolidJS ) (I do use Vue and shout out to yyx, but I like React )
+- Front-End ( React / NextJs / TailwindCss )
 - FastAPI ( Best Python Web Framework)
 - Go ( Mostly API servers)
 
